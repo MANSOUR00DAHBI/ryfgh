@@ -1,2 +1,1 @@
-# ryfgh
-mini kernel
+#Kernel mini
